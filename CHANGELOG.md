@@ -1,5 +1,16 @@
 # @radui/ui
 
+## 0.6.0
+
+### Minor Changes
+
+- 1535c08: new toast component
+
+### Patch Changes
+
+- 3a9ef46: Add configurable `loop` focus-wrapping options for Tabs, Disclosure, Tree, and NavigationMenu, including NavigationMenu content panels.
+- b577317: popover - improve radix api parity, modal focus behavior, arrow styling, and positioning stability
+
 ## 0.5.0
 
 ### Minor Changes
